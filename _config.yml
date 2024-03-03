@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "2021302121192.png"
+  avatar           : "irene.png"
   name             : "Runhan Zhang"
   pronouns         : # example: "she/her"  
   bio              : "A passionate embedded engineer."
   location         : "Wuhan, Hubei Province"
-  employer         : "Red Brick University"
+  employer         : "Wuhan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhangrunhan@whu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
