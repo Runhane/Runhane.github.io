@@ -21,7 +21,7 @@ repository               : "Irene Zhang/Runhane.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Runhan Zhang"
   pronouns         : # example: "she/her"  
   bio              : "A passionate embedded engineer."
