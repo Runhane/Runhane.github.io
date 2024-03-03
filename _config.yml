@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/irene.png"
+  avatar           : "irene.png"
   name             : "Runhan Zhang"
   pronouns         : # example: "she/her"  
   bio              : "A passionate embedded engineer."
